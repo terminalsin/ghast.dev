@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Jekyll Quickstart Themed
+> A barebones Jekyll static site which uses a theme
 
-You can use the [editor on GitHub](https://github.com/MichaelCurrin/jekyll-quickstart-themed/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Github Pages website -[michaelcurrin.github.io/jekyll-quickstart-themed/](https://michaelcurrin.github.io/jekyll-quickstart-themed/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Structure
 
-### Markdown
+A Jekyll site on Github Pages will render using the following:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Config file - `_config.yml`
+- Homepage
+    - `index.md`
+    - `index.html`
+    - `README.md`
+    
+If neither of the index files exist, then the `README.md` will be used and is sufficient and it requires no YAML metadata.
 
-```markdown
-Syntax highlighted code block
+If you want to set metadata such as layout in the index file (or other pages, set the following as an exmaple:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+---
+layout: home
+---
+Content goes here.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Create your own
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelCurrin/jekyll-quickstart-themed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To set up your own site:
+- Click the _Use as Template_ button above, or
+- Start from scratch
+    1. Create a new repo.
+    1. Go to Settings of repo
+    1. Github Pages section.
+    1. Choose a branch e.g. master.
+    1. Choose a theme. This will create a config and `README.md` (this overwrote my existing `README.md` though).
+    1. Optionally create an `index.md` file.
