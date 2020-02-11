@@ -25,11 +25,11 @@ The minimum would be empty metadata.
 Content
 ```
 
-But metadata helps, especially give the theme's styling using a layout.
+But metadata helps, especially give the theme's styling using a layout. Depending on the theme, you can use `default` or `home` for your base layout.
 
 ```
 ---
-layout: home
+layout: default
 title: My homepage title
 ---
 Content goes here.
