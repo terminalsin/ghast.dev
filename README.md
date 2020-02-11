@@ -15,11 +15,22 @@ A Jekyll site on Github Pages will render using the following:
     
 If neither of the index files exist, then the `README.md` will be used and is sufficient and it requires no YAML metadata.
 
-If you want to set metadata such as layout in the index file (or other pages, set the following as an exmaple:
+For other pages (whether markdown or index), they will default to have **no** Jekyll processing. So you probably want to set YAML metadata. 
+
+The minimum would be empty metadata.
+
+```
+---
+---
+Content
+```
+
+But metadata helps, especially give the theme's styling using a layout.
 
 ```
 ---
 layout: home
+title: My homepage title
 ---
 Content goes here.
 ```
