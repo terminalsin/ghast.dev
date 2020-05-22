@@ -83,7 +83,7 @@ Steps:
 1. Choose a branch e.g. master.
 1. Choose a theme
     - Use Github UI. This will create a config  file and `README.md` file (warning: this will overwrite an existing `README.md`, which happened me).
-    - Create a config file then add `theme:` or `remote-theme:` field.
+    - Create a config file, then add theme as`theme: NAME` or `remote-theme: USER/NAME`.
 1. Optionally create an `index.md` file.
 
 
