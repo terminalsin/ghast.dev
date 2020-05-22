@@ -1,5 +1,5 @@
-# Jekyll Quickstart Themed
-> A barebones Jekyll static site which uses a theme
+# Jekyll Themed Quickstart
+> A barebones Jekyll static site with a theme
 
 [![Use this Template](https://img.shields.io/badge/Use_this_Template-green?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-themed-quickstart/generate)
 
