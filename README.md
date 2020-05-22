@@ -4,7 +4,21 @@
 - Demo site: [michaelcurrin.github.io/jekyll-themed-quickstart/](https://michaelcurrin.github.io/jekyll-themed-quickstart/)
 
 
-## Structure
+<!-- If editing your own copy of this template, you can deleted the sections below and relace with your own content -->
+
+
+## Resources
+
+- [Jekyll](https://jekyllrb.com/) homepage
+- [Github Pages](https://pages.github.com/) docs
+- [Jekyll themes](https://jekyllrb.com/docs/themes/)
+- [Jekyll directory structure](https://jekyllrb.com/docs/structure/)
+
+
+## Jekyll project structure
+
+
+### Files and directories
 
 A Jekyll site on Github Pages will render using the following:
 
@@ -17,11 +31,14 @@ A Jekyll site on Github Pages will render using the following:
     
 If neither of the index files exist, then the `README.md` will be used and is sufficient and it requires no YAML metadata.
 
+
+### Pages and frontmatter
+
 For other pages (whether markdown or index), they will default to have **no** Jekyll processing. So you probably want to set YAML metadata. 
 
 The minimum would be _empty_ metadata.
 
-```
+```markdown
 ---
 ---
 Markdown or HTML content goes here.
@@ -30,7 +47,7 @@ Markdown or HTML content goes here.
 
 But metadata helps, at least to test a page title and make use of your own layout or a theme's layout. Depending on the theme, you can use `default` or `home` for your base layout.
 
-```
+```markdown
 ---
 # YAML metadata goes here.
 title: My homepage title
@@ -64,3 +81,13 @@ Steps:
     - Use Github UI. This will create a config  file and `README.md` file (warning: this will overwrite an existing `README.md`, which happened me).
     - Create a config file then add `theme:` or `remote-theme:` field.
 1. Optionally create an `index.md` file.
+
+
+## Setup locally
+
+See the [Quickstart](https://jekyllrb.com/docs/) page in the Jekyll docs.
+
+
+## License
+
+Released under [MIT](/LICENSE).
