@@ -1,11 +1,12 @@
 # Jekyll Quickstart Themed
 > A barebones Jekyll static site which uses a theme
 
-- Demo site: [michaelcurrin.github.io/jekyll-themed-quickstart/](https://michaelcurrin.github.io/jekyll-themed-quickstart/)
+[![Use this Template](https://img.shields.io/badge/Use_this_Template-green?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-themed-quickstart/generate)
+
+[![Site link](https://img.shields.io/badge/GH_Pages-Demo_site-green?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-quickstart/)
 
 
 <!-- If editing your own copy of this template, you can deleted the sections below and relace with your own content -->
-
 
 ## Resources
 
