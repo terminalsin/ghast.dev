@@ -1,7 +1,7 @@
 # Jekyll Quickstart Themed
 > A barebones Jekyll static site which uses a theme
 
-- Demo site: [michaelcurrin.github.io/jekyll-themed-quickstart/](https:/[michaelcurrin.github.io/jekyll-themed-quickstart//)
+- Demo site: [michaelcurrin.github.io/jekyll-themed-quickstart/](https://michaelcurrin.github.io/jekyll-themed-quickstart/)
 
 
 ## Structure
