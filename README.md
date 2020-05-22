@@ -20,7 +20,7 @@
 
 ### Files and directories
 
-A Jekyll site on Github Pages will render using the following:
+A Jekyll site on Github Pages will render if the repo includes the following:
 
 - Config file 
     - `_config.yml`
@@ -30,6 +30,9 @@ A Jekyll site on Github Pages will render using the following:
     - `README.md`
     
 If neither of the index files exist, then the `README.md` will be used and is sufficient and it requires no YAML metadata.
+
+
+No `Gemfile` is needed on Github Pages but is recommended for local use if you have any gems (dependencies), including themes.
 
 
 ### Pages and frontmatter
