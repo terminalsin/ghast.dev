@@ -1,5 +1,5 @@
-# Jekyll Themed Quickstart
-> A barebones Jekyll static site with a theme
+# Jekyll Themed Site Quickstart
+> A barebones Jekyll static site that uses a theme
 
 [![Use this Template](https://img.shields.io/badge/Use_this_Template-green?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-themed-quickstart/generate)
 
@@ -17,7 +17,6 @@
 
 
 ## Jekyll project structure
-
 
 ### Files and directories
 
