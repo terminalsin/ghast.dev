@@ -1,9 +1,16 @@
 # Jekyll Themed Site Quickstart
 > A barebones Jekyll static site that uses a theme
 
+
+## Use this project
+
+### Add to your repos
+
 [![Use this Template](https://img.shields.io/badge/Use_this_Template-green?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/generate)
 
-[![Site link](https://img.shields.io/badge/GH_Pages-Demo_site-green?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
+### Live demo
+
+[![Site link](https://img.shields.io/badge/GH_Pages-jekyll_themed_site_quickstarrt-green?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
 
 
 <!-- If editing your own copy of this template, you can deleted the sections below and relace with your own content -->
@@ -20,19 +27,36 @@
 
 ### Files and directories
 
+This project is setup to demonstrate use of the Required structure below.
+
+#### Required
+
 A Jekyll site on Github Pages will render if the repo includes the following:
 
 - Config file 
     - `_config.yml`
-- Homepage:
+- Homepage file:
     - `index.md` OR
     - `index.html` OR
     - `README.md`
-    
+
 If neither of the index files exist, then the `README.md` will be used and is sufficient and it requires no YAML metadata.
 
+You can add additional pages, themes, layouts and so on to that setup.
 
-No `Gemfile` is needed on Github Pages but is recommended for local use if you have any gems (dependencies), including themes.
+#### Optional files
+
+You might be happy with a site that runs only on Github Pages - this could be fine for a simple site or for doc. 
+
+If you do want to install and run locally, you will need to add these to the project. See [MichaelCurrin/jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo) for a complete example.
+
+- `Gemfile`
+    - Github Pages installs based on the config file and not the `Gemfile`, so this is optional if not running locally. 
+    - But one is recommended for local use if you have any gems (such as plugins and themes).
+- `.gitignore`
+    - To ignore the built `_site` directory.
+    - Ignore the `vendor/` directory of gems.
+    - And to ignore the `.bundle` directory if using `bundler` to install.
 
 
 ### Pages and frontmatter
@@ -63,11 +87,11 @@ Markdown or HTML content goes here.
 
 ## Create your own
 
-To set up your own site:
+To set up your own site, choose one of these approaches:
 
 ### Template
 
-Click the _Use this Template_ button at the top of this repo.
+Click the _Use this Template_ button at the top of this repo under [Add to your repos](#add-to-your-repos) section.
 
 Check your new repo's Settings or _environment_ tab to check the URL of your Github Pages site.
 
