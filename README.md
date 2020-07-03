@@ -10,7 +10,7 @@
 
 ### Live demo
 
-[![Site link](https://img.shields.io/badge/GH_Pages-jekyll_themed_site_quickstarrt-green?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
+[![Site link](https://img.shields.io/badge/GH_Pages-jekyll_themed_site_quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
 
 
 <!-- If editing your own copy of this template, you can deleted the sections below and relace with your own content -->
