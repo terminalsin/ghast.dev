@@ -1,6 +1,9 @@
 # Jekyll Themed Site Quickstart
 > A barebones Jekyll static site that uses a theme
 
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-themed-site-quickstart)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/tags/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 
 ## Use this project
 
@@ -33,14 +36,14 @@ This project is setup to demonstrate use of the Required structure below.
 
 A Jekyll site on Github Pages will render if the repo includes the following:
 
-- Config file 
+- Config YAML file:
     - `_config.yml`
-- Homepage file:
+- Homepage file
     - `index.md` OR
     - `index.html` OR
-    - `README.md`
+    - `README.md` OR
 
-If neither of the index files exist, then the `README.md` will be used and is sufficient and it requires no YAML metadata.
+If neither of the **index** files exist, then the `README.md` will be used instead and is sufficient. It requires no YAML metadata so you can just use a standard README approach to content. Note that any content will appear on the site itself (like links to the site and link to the README which will attempt to download from the site if not ignored).
 
 You can add additional pages, themes, layouts and so on to that setup.
 
