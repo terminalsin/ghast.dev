@@ -32,7 +32,7 @@
 
 This project is setup to demonstrate use of the _Required_ file structure below.
 
-If you are looking for a template project with more substantial content like multiple pages, see https://github.com/MichaelCurrin/jekyll-blog-demo . 
+If you are looking for a template project with more substantial content like multiple pages, see https://github.com/MichaelCurrin/jekyll-blog-demo . If you are looking for use of layouts, see this project https://github.com/MichaelCurrin/themeless-jekyll-quickstart .
 
 #### Required
 
