@@ -5,13 +5,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
-## Use this project
+## How use this project
 
 ### Add to your repos
 
 [![Use this Template](https://img.shields.io/badge/Use_this_Template-green?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/generate)
 
-### Live demo
+### View the live demo
 
 [![Site link](https://img.shields.io/badge/GH_Pages-jekyll_themed_site_quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
 
@@ -21,7 +21,7 @@
 ## Resources
 
 - [Jekyll](https://jekyllrb.com/) homepage
-- [Github Pages](https://pages.github.com/) docs
+- [GitHub Pages](https://pages.github.com/) docs
 - [Jekyll themes](https://jekyllrb.com/docs/themes/)
 - [Jekyll directory structure](https://jekyllrb.com/docs/structure/)
 
@@ -30,7 +30,9 @@
 
 ### Files and directories
 
-This project is setup to demonstrate use of the Required structure below.
+This project is setup to demonstrate use of the _Required_ file structure below.
+
+If you are looking for a template project with more substantial content like multiple pages and use of layouts, see https://github.com/MichaelCurrin/Jekyll-blog-demo. 
 
 #### Required
 
