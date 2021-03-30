@@ -1,5 +1,5 @@
 # Jekyll Themed Site Quickstart
-> A starter template for a Jekyll site which uses a theme
+> Starter template for a minimal Jekyll site which uses a theme
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-themed-site-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
