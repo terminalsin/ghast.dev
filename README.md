@@ -24,11 +24,11 @@
 
 </div>
 
-### View the live demo and info
+### View the live demo
 
 <div align="center">
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
 
 </div>
 
