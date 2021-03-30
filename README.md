@@ -1,8 +1,8 @@
 # Jekyll Themed Site Quickstart
-> A barebones Jekyll static site that uses a theme
+> A starter template for a Jekyll site which uses a theme
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-themed-site-quickstart)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/tags/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-themed-site-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
 ## How use this project
@@ -18,8 +18,10 @@
 
 <!-- If editing your own copy of this template, you can deleted the sections below and relace with your own content -->
 
+
 ## Resources
 
+- [Jekyll resources](https://michaelcurrin.github.io/dev-resources/resources/jekyll/)
 - [Jekyll](https://jekyllrb.com/) homepage
 - [GitHub Pages](https://pages.github.com/) docs
 - [Jekyll themes](https://jekyllrb.com/docs/themes/)
@@ -32,7 +34,7 @@
 
 This project is setup to demonstrate use of the _Required_ file structure below.
 
-If you are looking for a template project with more substantial content like multiple pages, see https://github.com/MichaelCurrin/jekyll-blog-demo . If you are looking for use of layouts, see this project https://github.com/MichaelCurrin/themeless-jekyll-quickstart .
+If you are looking for a template project with more substantial content like multiple pages, see [jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo). If you are looking for use of layouts, see this project - [themeless-jekyll-quickstart](https://github.com/MichaelCurrin/themeless-jekyll-quickstart).
 
 #### Required
 
@@ -43,7 +45,7 @@ A Jekyll site on Github Pages will render if the repo includes the following:
 - Homepage file
     - `index.md` OR
     - `index.html` OR
-    - `README.md` OR
+    - `README.md`
 
 If neither of the **index** files exist, then the `README.md` will be used instead and is sufficient. It requires no YAML metadata so you can just use a standard README approach to content. Note that any content will appear on the site itself (like links to the site and link to the README which will attempt to download from the site if not ignored).
 
@@ -100,7 +102,6 @@ Click the _Use this Template_ button at the top of this repo under [Add to your 
 
 Check your new repo's Settings or _environment_ tab to check the URL of your Github Pages site.
 
-
 ### Create a fresh project
 
 Steps:
@@ -115,6 +116,9 @@ Steps:
 1. Optionally create an `index.md` file.
 
 
+## License
+
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
 ## Setup locally
 
 See the [Quickstart](https://jekyllrb.com/docs/) page in the Jekyll docs.
