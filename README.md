@@ -8,7 +8,9 @@
 ## Preview
 
 <div align="center">
-    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+    <a href="https://michaelcurrin.github.io/jekyll-themed-site-quickstart/">
+        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+    </a>
 </div>
 
 
