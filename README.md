@@ -9,14 +9,19 @@
 
 ### Add to your repos
 
-[![Use this Template](https://img.shields.io/badge/Use_this_Template-green?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/generate)
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/generate)
+
+</div>
 
 ### View the live demo
 
-[![Site link](https://img.shields.io/badge/GH_Pages-jekyll_themed_site_quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
+<div align="center">
 
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
 
-<!-- If editing your own copy of this template, you can deleted the sections below and relace with your own content -->
+</div>
 
 
 ## Resources
@@ -116,9 +121,6 @@ Steps:
 1. Optionally create an `index.md` file.
 
 
-## License
-
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
 ## Setup locally
 
 See the [Quickstart](https://jekyllrb.com/docs/) page in the Jekyll docs.
@@ -126,4 +128,4 @@ See the [Quickstart](https://jekyllrb.com/docs/) page in the Jekyll docs.
 
 ## License
 
-Released under [MIT](/LICENSE).
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
