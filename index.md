@@ -23,11 +23,15 @@ There are about 10 and are listed among gems here:
 
 - https://pages.github.com/versions/
 
-You can also switch between themes with preview, by switching themes within repo Settings 
+You can also switch between themes with a preview, by switching themes within repo Settings 
 
 ### Custom 
 
 If you want to use another theme on a GH Pages site, you must use the Remote Theme plugin and point to a GitHub repo.
+
+See this project, which uses that approach and explains it.
+
+- https://github.com/MichaelCurrin/jekyll-theme-quickstart/tree/gh-pages
 
 Or you must use another CI flow like GitHub Actions or Netlify. Then you can put any theme in your config file under `theme`, as long as you also cover it in `Gemfile`.
 
