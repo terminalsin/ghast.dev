@@ -7,6 +7,8 @@
 [![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 [![Made with Jekyll](https://img.shields.io/badge/Jekyll-3.9-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
 
+Note that it is easy to use one of standard themes available of GitHub Pages by setting the theme value in your config. If you want to use another theme, use the Remote Theme plugin and point to a GitHub repo.
+
 
 ## Preview
 
