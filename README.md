@@ -7,9 +7,6 @@
 [![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 [![Made with Jekyll](https://img.shields.io/badge/Jekyll-3.9-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
 
-Note that it is easy to use one of standard themes available of GitHub Pages by setting the theme value in your config. If you want to use another theme, use the Remote Theme plugin and point to a GitHub repo.
-
-
 ## Preview
 
 <div align="center">
@@ -36,6 +33,25 @@ Note that it is easy to use one of standard themes available of GitHub Pages by 
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-themed-site-quickstart/)
 
 </div>
+
+
+## Choose a theme
+
+### Built-in
+
+It is easy to use one of standard themes available of GitHub Pages by setting the theme value in your config. 
+
+There are about 10 and are listed among gems here:
+
+- https://pages.github.com/versions/
+
+You can also switch between themes with preview, by switching themes within repo Settings 
+
+### Custom 
+
+If you want to use another theme on a GH Pages site, you must use the Remote Theme plugin and point to a GitHub repo.
+
+Or you must use another CI flow like GitHub Actions or Netlify. Then you can put any theme in your config file under `theme`, as long as you also cover it in `Gemfile`.
 
 
 ## License
