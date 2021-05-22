@@ -35,25 +35,6 @@
 </div>
 
 
-## Choose a theme
-
-### Built-in
-
-It is easy to use one of standard themes available of GitHub Pages by setting the theme value in your config. 
-
-There are about 10 and are listed among gems here:
-
-- https://pages.github.com/versions/
-
-You can also switch between themes with preview, by switching themes within repo Settings 
-
-### Custom 
-
-If you want to use another theme on a GH Pages site, you must use the Remote Theme plugin and point to a GitHub repo.
-
-Or you must use another CI flow like GitHub Actions or Netlify. Then you can put any theme in your config file under `theme`, as long as you also cover it in `Gemfile`.
-
-
 ## License
 
 Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
