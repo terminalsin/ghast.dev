@@ -12,7 +12,7 @@
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/jekyll-themed-site-quickstart/">
-        <img src="/sample.png" alt="Sample screenshot" title="Go to demo website" width="400" />
+        <img src="/sample.png" alt="Sample screenshot" title="Go to demo website" width="700" />
     </a>
 </div>
 
@@ -38,8 +38,8 @@
 
 ## Related projects
 
+- [![MichaelCurrin - jekyll-blog-demo](https://img.shields.io/static/v1?label=MichaelCurrin&message=jekyll-blog-demo&color=blue&logo=github)](https://github.com/MichaelCurrin/jekyll-blog-demo) - generated with Jekyll CLI. Uses a theme, content, style set up, gems, and a Makefile.
 - [![MichaelCurrin - jekyll-gh-actions-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=jekyll-gh-actions-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart) - using Jekyll 4, a theme, GitHub Actions, and GitHub Pages.
-- [![MichaelCurrin - jekyll-blog-demo](https://img.shields.io/static/v1?label=MichaelCurrin&message=jekyll-blog-demo&color=blue&logo=github)](https://github.com/MichaelCurrin/jekyll-blog-demo) - using a theme, content, style set up, gems, and a Makefile.
 
 
 ## License
