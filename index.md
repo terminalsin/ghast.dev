@@ -1,5 +1,6 @@
 ---
 title: Homepage
+layout: homepage
 ---
 
 # About me
