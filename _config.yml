@@ -7,3 +7,6 @@ remote_theme: yaoyao-liu/minimal-light
 
 plugins:
   - jekyll-remote-theme
+
+title: Shanyu Thibaut
+description: Hi, I'm a developer, and this is my site
