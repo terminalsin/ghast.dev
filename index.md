@@ -27,6 +27,6 @@ I'm responsible for the following projects
 ## Research
 - Analysis, evaluation and proposal of an inter-procedural Java Obfuscation methodology (2023, publishing soon?)
 
-<script id="umaring_js" src="https://umaring.hamy.cc/ring.js?id=ID"></script>
+<script id="umaring_js" src="https://umaring.hamy.cc/ring.js?id=tbo"></script>
 <div id="umaring"></div>
 
