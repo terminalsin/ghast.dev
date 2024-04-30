@@ -25,7 +25,9 @@ I'm responsible for the following projects
 - Responsible for the discovery of various other bugs in Phala Network, other blockchains, etc
 
 ## Research
+- [Taking Java Obfuscation to the Next Level by Exploiting SSA Form](https://github.com/skidfuscatordev/skidfuscator-java-obfuscator) (2024, CCSC-NE Finalist)
 - Analysis, evaluation and proposal of an inter-procedural Java Obfuscation methodology (2023, publishing soon?)
+- [Java String Encryption Performance Enhancement with JDK11+](https://github.com/skidfuscatordev/constant-dynamic-research/) (2024, IEEE plz plz plz accept)
 
 <script id="umaring_js" src="https://umaring.hamy.cc/ring.js?id=tbo"></script>
 <div id="umaring"></div>
