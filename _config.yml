@@ -12,11 +12,10 @@ title: Shanyu Thibaut
 description: Hi, I'm a developer, and this is my site
 cv_link: assets/resume.pdf
 github_link: https://github.com/terminalsin
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
+avatar: ./assets/img/avatar.avif
+favicon: ./assets/img/favicon.jpg
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
-
