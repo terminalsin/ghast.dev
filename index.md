@@ -29,6 +29,6 @@ I'm responsible for the following projects
 - Analysis, evaluation and proposal of an inter-procedural Java Obfuscation methodology (2023, publishing soon?)
 - [Java String Encryption Performance Enhancement with JDK11+](https://github.com/skidfuscatordev/constant-dynamic-research/) (2024, IEEE plz plz plz accept)
 
-<script id="umaring_js" src="https://umaring.hamy.cc/ring.js?id=tbo"></script>
+<script id="umaring_js" src="https://umaring.mkr.cx/ring.js?id=tbo"></script>
 <div id="umaring"></div>
 
